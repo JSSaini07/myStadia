@@ -1,0 +1,24 @@
+{
+  "name": "mystadia",
+  "version": "1.0.0",
+  "description": "My version of Google Stadia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSSaini07/myStadia.git"
+  },
+  "author": "JSSaini07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSSaini07/myStadia/issues"
+  },
+  "homepage": "https://github.com/JSSaini07/myStadia#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "screenshot-desktop": "^1.12.0"
+  }
+}
